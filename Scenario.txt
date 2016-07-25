@@ -1,0 +1,49 @@
+
+
+BDS Projekt .NET Core:
+
+	- Kunde:
+			- System: Window Server 2008
+			- ASP.NET MVC 3 Applikation   (Sample Application from msdn "MVC Music Store" 
+			(Migrationsbericht: file:///C:/Users/wwi/Documents/Projects/BDS/.NET%20Core/MVC3/MvcMusicStore-v3.0/MvcMusicStore-v3.0/MvcMusicStore-Completed/UpgradeLog.htm))
+			- .NET 4 
+			- IIS 7
+			- DB: SQL Server 2008 (Sample Application with SQL Express)
+			
+	
+	- Aufgabe:
+			- System: Windows Server 2016 (wenn möglich) mit IIS 10 & Linux Selfhosted (evtl. Ubuntu)
+			- Migration nach ASP.NET Core / ASP.NET 5  (MVC Core)
+			- .NET Core und .NET 4.6
+			- EF Core
+			- SQl Server neueste Version
+			
+			
+
+	- Nutzen:
+			- Performance (vorher naher)
+			- Kosten (Betriebskosten, Entwicklungskosten, Wartungskosten)
+			- Flexibilität (wahl des Systems auf welcher die Applikation läuft)
+			- Wartbarkeit
+			- Testbarkeit
+					
+
+			
+			
+			
+Erste Schritte:
+
+- Kundenprojekt suchen: Ein MVC3 Projekt welches frei erhältlich ist, evtl. Infrastruktur nachbauen
+
+
+- Git Projekt erstellen
+- ASP.NET Core Projekt anlegen mit Standard Template
+- ASP Projekt in Git einchecken
+- Kundenprojekt in Git einchecken
+- Dokumente einpflegen
+- Mitstreiter Freigeben
+- MVC
+
+
+
+
